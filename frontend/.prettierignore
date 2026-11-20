@@ -1,0 +1,9 @@
+dist
+node_modules
+coverage
+playwright-report
+test-results
+src/api/mock.ts
+package-lock.json
+src/styles.css
+dist-e2e
